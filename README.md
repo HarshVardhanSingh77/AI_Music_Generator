@@ -13,7 +13,7 @@ The generated MIDI composition is converted into playable WAV audio using FluidS
 * 🎼 MAESTRO MIDI dataset
 * 🔄 MIDI preprocessing and note/chord extraction
 * 🎵 Sequence-based music generation
-* 🔊 MIDI-to-WAV audio rendering using FluidSynth
+* 🔊 MIDI-to-WAV audio rendering using FluidSynth.
 * 🎧 Audio playback directly inside Streamlit
 * ⬇️ Download generated MIDI files
 * ⬇️ Download generated WAV files
