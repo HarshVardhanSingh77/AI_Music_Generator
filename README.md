@@ -8,7 +8,7 @@ The generated MIDI composition is converted into playable WAV audio using FluidS
 
 ## ✨ Features
 
-* 🎹 MIDI-based music generation
+* 🎹 MIDI-based music generation.
 * 🧠 LSTM deep learning model
 * 🎼 MAESTRO MIDI dataset
 * 🔄 MIDI preprocessing and note/chord extraction
